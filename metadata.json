@@ -1,0 +1,6 @@
+{
+  "name": "FlashAI — AI Flashloan Arbitrage Bot Dashboard",
+  "description": "Configure, simulate, and monitor AI-assisted flash-loan arbitrage strategies across decentralized exchanges with deterministic profit validation and real-time pool scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
